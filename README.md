@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Prazer, sou Vinicius Gomes dos Santos, tenho 21 anos e sou natural de São Paulo. Formado em técnico eletroeletrônico pela FIEB. Atualmente estou cursando o 5º ciclo de Análise e Desenvolvimento de Sistemas na FATEC. Um amante de tecnologia e de como ela atua na soluções de problemas e facilitações da nossa vida profissional e cotidiana. Ingressando nesse mundo vasto do desenvolvimento de sistemas e tecnologias.
+Prazer, sou Vinicius Gomes dos Santos, tenho 21 anos e sou natural de São Paulo. Formado em técnico eletroeletrônico pela FIEB. Atualmente estou cursando o 5º ciclo de Análise e Desenvolvimento de Sistemas na FATEC. Um amante de tecnologia e de como ela atua na soluções de problemas e facilitações da nossa vida profissional e cotidiana. Ingressando nesse mundo vasto de desenvolvimento de sistemas e tecnologias.
 
 <p
      <a href="https://github.com/vgomes001?tab=repositories&sort=stargazers">
