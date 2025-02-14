@@ -75,7 +75,7 @@ Prazer, sou Vinicius Gomes dos Santos, tenho 21 anos e sou natural de São Paulo
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgomes001&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
