@@ -48,6 +48,7 @@ Prazer, sou Vinicius Gomes dos Santos, tenho 21 anos e sou natural de São Paulo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
      />     
+     
 <img 
     align="left" 
     alt="Git" 
