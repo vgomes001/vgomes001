@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vinicius Gomes
+# 💻📚 Vinicius Gomes
 
 **`Desenvolvedor`**
 
